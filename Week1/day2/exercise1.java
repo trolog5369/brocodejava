@@ -20,6 +20,7 @@ public class exercise1 {
         area=width*height;
         System.out.println("The area is "+area+" cm²");
         // for cm² this(super script of 2) use numlock on alt+0178
+        // for superscript of 3 use numlock(on) alt+0179
 
 
 
