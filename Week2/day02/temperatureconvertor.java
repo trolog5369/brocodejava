@@ -39,7 +39,7 @@ public class temperatureconvertor {
         // for degree symbol "°" use formula numlock on alt+0176
 
         // to limit the amount of digits to display we can use obiously printf
-         System.out.printf("%.1f°",newTemp,unit);
+         System.out.printf("%.1f°%s",newTemp, unit);
 
         scanner.close();
     }
