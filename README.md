@@ -63,12 +63,19 @@ It is meant to **track progress, practice concepts, and build practical mini-pro
 ---
 ---
 
-## 🔗 Connect with Me
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/pranav-gaikwad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-PranavGaikwad-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://instagram.com/_pranav.xr" target="_blank"><img src="https://img.shields.io/badge/Instagram-_pranav.xr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-  <a href="mailto:pranavgaikwad847@gmail.com"><img src="https://img.shields.io/badge/Email-pranavgaikwad847@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/pranav-gaikwad-b09247350" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_pranav.xr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:pranavgaikwad847@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
 </p>
+---
 
 *"Consistency beats talent. Growth comes from effort."*
 
