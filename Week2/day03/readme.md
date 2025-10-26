@@ -26,14 +26,16 @@
 | `dowhile2.java` | Validates number input using `do-while` loop between 1–10. |
 | `logicaloperators.java` | Explains AND, OR, and NOT through weather conditions. |
 | `logicaloperators2.java` | Demonstrates logical operators with username validation. |
+| `praticeasf.java` | Mini-project combining `while`, `do-while`, and logical operators for age and gender input validation. |
 
 ### 🧩 Key Takeaways
 - **While** runs only if the condition is initially true.
 - **Do-While** runs **once** even if the condition is false.
 - Logical operators control complex conditions efficiently.
 - Always ensure your loops have an exit condition to avoid infinite loops.
+- Combining loops with logical operators allows robust input validation (as in `praticeasf.java`).
 
 ---
 
 🗓️ **Date:** Week 2, Day 03  
-💡 **Focus:** Understanding Loop Structures and Logical Decision Making  
+💡 **Focus:** Understanding Loop Structures, Logical Operators, and Input Validation
