@@ -4,17 +4,15 @@ public static void main(String[] args) {
     // Methods=block of reusable code that is executed when ()
     // we can write a code once and reuse it many times as per we wish we just have to call it
 
+    
+// Important points to remember:(reagrding methods)
+// Method are unfamilar with variables declared in other methods!
+
     String name="Bro";
     int age=25;
     // if we were to use these varibales in our happybirthday method
     // the method actually dosent know who they are the var
     happybirthday();
-
-// Important points to remember:(reagrding methods)
-// Method are unfamilar with variables declared in other methods!
-
-
-
 }
  static void happybirthday(){ 
   System.out.println("Happpy Birthday to you!");

@@ -37,8 +37,8 @@ public static void main(String[] args) {
 
 
 }
-// we created a happybirthday method same as the main method and used static as main is a static
-// and were using a static 
+// we created a happybirthday method same as the main method and used static as main is a static method
+// and were using a calling a method which is already a static
  static void happybirthday(){ 
   System.out.println("Happpy Birthday to you!");
   System.out.println("Happy Birthday dear you!");
@@ -48,3 +48,4 @@ public static void main(String[] args) {
 }
 // Important points to remember:(reagrding methods)
 // Method are unfamilar with variables declared in other methods!
+// check methods2.java for further explanation

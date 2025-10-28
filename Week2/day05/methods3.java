@@ -6,7 +6,7 @@ public static void main(String[] args) {
 
     String name="Pranav";
     int age=19;
-    //See method3.java continuation we can oass arguments to the methods ie 
+    //See method3.java continuation we can pass arguments to the methods ie 
     // sent info from one method to another! these are known as arguments(value/variable)
     happybirthday(name,age);
     // We need a matching set of parameters for both the methods
