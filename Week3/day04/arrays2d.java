@@ -17,7 +17,7 @@ public class arrays2d {
         for(String[] foods:groceries){
             System.out.println(foods);
         }
-        // we get memory adddresses as arrays are a ref datatype
+        // we get memory adddresses as arrays are a ref datatype and were printing the matrix
 //[Ljava.lang.String;@7ad041f3
 // [Ljava.lang.String;@251a69d7
 // [Ljava.lang.String;@7344699f
