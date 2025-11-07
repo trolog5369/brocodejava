@@ -26,9 +26,9 @@ public class ifelseuserinput2 {
             System.out.println("You didnt enter your name😡");
         }
         else{
-            System.out.println("Hello "+name+" !😊");
+            System.out.println("Hello  "+name+" !😊");
         }
-
+          
 
         // GROUP 2 for age
         if (age>=65) {
