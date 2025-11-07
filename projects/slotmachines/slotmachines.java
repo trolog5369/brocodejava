@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class slotmachine {
+public class slotmachines {
     public static void main(String[] args) {
         // Slot Machine
 
@@ -79,7 +79,6 @@ public class slotmachine {
         for(int i=0;i<3;i++){
        row[i]= (symbols[random.nextInt(symbols.length)]); 
         }
-        // System.out.println(row[0]+row[1]+row[2]);
         return row;
     }
     static void printRow(String [] row){
