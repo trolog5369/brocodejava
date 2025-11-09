@@ -21,7 +21,7 @@ public class objectorientedprogramming {
         // Random random=new Random();
 
         // for implementing our car object we can do this
-        Car car=new Car();
+        Car1 car=new Car1();
     // We created an "car" object from the Class Car
 
     // String make="Ford";
