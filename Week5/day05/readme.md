@@ -77,6 +77,7 @@ You don’t want to create “generic animals.”
 You want real behavior — Dog, Cat, etc.
 
 Abstract classes enforce that.
+
 ✔ Runtime decision-making
 
 The program does not know the chosen class at compile time.
