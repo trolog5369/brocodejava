@@ -9,7 +9,7 @@ public class Car {
         this.year=year;
         this.engine=new Engine(engineType);//"Part of" relation as the engine is a part of Car
     }
-
+// engineType is same as the String type
     void start(){
         this.engine.start();
         System.out.println("The "+this.model+" is running");
