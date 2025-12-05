@@ -39,6 +39,9 @@ public class hangingman {
         // Loop for determining correcting guess
         if (word.indexOf(guess)>=0) {
             System.out.println("Correct guess");
+            // If the index of guess is present in the word then will return correct guess if not will return -1 ie not present
+            //returns the index of the first occurrence of guess in word.
+            // >= 0 → means the letter exists somewhere in the word.
 
             //if guess correct then will fill in the blank spaces
             for(int i=0;i<word.length();i++) {
