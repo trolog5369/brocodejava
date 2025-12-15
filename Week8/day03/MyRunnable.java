@@ -15,6 +15,7 @@ public class MyRunnable implements Runnable{
             if (i==10) {
                 System.out.println("Time's Up!");
                 System.exit(0);//end the program used for threading3.java when we didn't input anything for 10 sec
+                // But this is dangerous as it can close rsc,files and is not a good pratice in real world applications
             }
         }
     }
